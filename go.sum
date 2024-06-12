@@ -1,8 +1,12 @@
 github.com/gocarp/codes v1.0.0 h1:qxD6uuCohXIijORHWPlk+ywEpNV9ZDAzE+cEs8XPzZo=
 github.com/gocarp/codes v1.0.0/go.mod h1:RPIHuZOUDKCu6nWcWRzlSwypwpFlvgWxsZDsmjVw/F0=
+github.com/gocarp/encoding v1.0.1 h1:mV9K5fd87vdrlMU0lOsBK/ny5j0z/8qJ1Y5oRk6pMwk=
+github.com/gocarp/encoding v1.0.1/go.mod h1:KCNcPUWrN2jk6zVNggpHftzGGTZ9l/Y0nJw78p5JlFk=
 github.com/gocarp/errors v1.0.0 h1:d0JqqgkNoUcCmln3nFi5krUGX7Vlnu9WN5U4c7QfO3U=
 github.com/gocarp/errors v1.0.0/go.mod h1:1PCjBJfzd1mLW68rPUV80jhQSVK/gGQyHh+t13xl0gY=
 github.com/gocarp/errors v1.0.1/go.mod h1:MRXWLSHv7+frBaa2ynTICpKUl90Lug6uavhhk8Sx8pk=
+github.com/gocarp/go v1.0.0 h1:Z/qghNCiFiDiYHWPCEGSFEAw1RnuiW7bDV3BluS5cvw=
+github.com/gocarp/go v1.0.0/go.mod h1:ojhVyxC6pI4pekIVAb9BhUo5lDpMcA4ySRbZbiuvIeI=
 github.com/gocarp/helpers v1.0.0 h1:Kg44t6sfV0IMOcPpbtfarPW/ZQwTqrGMdz61WoGcN/o=
 github.com/gocarp/helpers v1.0.0/go.mod h1:wLortDtqRqIfzA/wdq03J8lm+hwxXRFZ/m2weY6yL6A=
 github.com/gocarp/helpers v1.1.0 h1:qqCCzXQxLYmEqgl/F0eWHXNWRJzy07xdTSPzApMvR3Q=
