@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+### Features
+* feat(conv): implements powerful and convenient converting functionality for any types of variables.
+
 ## v1.0.0
 
 ### Features
