@@ -4,3 +4,5 @@ github.com/gocarp/errors v1.0.0 h1:d0JqqgkNoUcCmln3nFi5krUGX7Vlnu9WN5U4c7QfO3U=
 github.com/gocarp/errors v1.0.0/go.mod h1:1PCjBJfzd1mLW68rPUV80jhQSVK/gGQyHh+t13xl0gY=
 github.com/gocarp/helpers v1.0.0 h1:Kg44t6sfV0IMOcPpbtfarPW/ZQwTqrGMdz61WoGcN/o=
 github.com/gocarp/helpers v1.0.0/go.mod h1:wLortDtqRqIfzA/wdq03J8lm+hwxXRFZ/m2weY6yL6A=
+github.com/gocarp/helpers v1.1.0 h1:qqCCzXQxLYmEqgl/F0eWHXNWRJzy07xdTSPzApMvR3Q=
+github.com/gocarp/helpers v1.1.0/go.mod h1:rFsUamP1SZRFr6jMMwy+4upA1vIvXaeFdSUDYV/CQRY=
